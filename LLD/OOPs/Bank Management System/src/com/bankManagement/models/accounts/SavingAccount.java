@@ -1,4 +1,4 @@
-package com.bankManagement.models.accounts;
+package com.bankmanagement.models.accounts;
 
 class SavingsAccount extends Account {
     private double interestRate;

@@ -1,4 +1,4 @@
-package com.bankManagement.models.accounts;
+package com.bankmanagement.models.accounts;
 
 public class CurrentAccount extends Account {
     private double overdraftLimit;

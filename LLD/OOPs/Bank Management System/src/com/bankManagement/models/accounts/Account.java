@@ -1,4 +1,4 @@
-package com.bankManagement.models.accounts;
+package com.bankmanagement.models.accounts;
 
 public class Account {
     private String accountNo;
